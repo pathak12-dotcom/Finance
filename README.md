@@ -2,6 +2,12 @@
 
 A powerful command-line application to manage your personal finances. Add, update, delete, and analyze your expenses with ease.
 
+**📍 Project URL:** https://github.com/pathak12-dotcom/Finance
+
+**📚 Based on:** [Roadmap.sh - Expense Tracker Project](https://roadmap.sh/projects/expense-tracker)
+
+---
+
 ## Features
 
 ✅ **Core Features**
